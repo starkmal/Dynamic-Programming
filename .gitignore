@@ -2,6 +2,7 @@
 *.out
 *.ans
 *.swp
+.vscode/*
 
 # Prerequisites
 *.d
